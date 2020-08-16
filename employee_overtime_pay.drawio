@@ -1,1 +1,96 @@
-<mxfile host="app.diagrams.net" modified="2020-08-16T03:25:25.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36 Edg/84.0.522.59" version="13.6.2" etag="UZnGowlk3dPrjlxg-_XC" type="github"><diagram id="FnHJiK8q7xD4A5CnVn4N">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-16T03:50:20.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36 Edg/84.0.522.59" etag="PS9rLiQcNK0BoSgPv6js" version="13.6.2" type="github">
+  <diagram id="FnHJiK8q7xD4A5CnVn4N" name="Page-1">
+    <mxGraphModel dx="1019" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="G1TAlQLfBnPS3WXYuJip-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G1TAlQLfBnPS3WXYuJip-1" target="G1TAlQLfBnPS3WXYuJip-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TAlQLfBnPS3WXYuJip-1" value="hours, employee=1;&lt;br&gt;overtime, ovetime_pay" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="40" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TAlQLfBnPS3WXYuJip-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G1TAlQLfBnPS3WXYuJip-3" target="G1TAlQLfBnPS3WXYuJip-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TAlQLfBnPS3WXYuJip-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G1TAlQLfBnPS3WXYuJip-3" target="G1TAlQLfBnPS3WXYuJip-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TAlQLfBnPS3WXYuJip-3" value="employee&amp;lt;=10" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TAlQLfBnPS3WXYuJip-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G1TAlQLfBnPS3WXYuJip-4" target="G1TAlQLfBnPS3WXYuJip-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TAlQLfBnPS3WXYuJip-4" value="print employee number" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="210" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TAlQLfBnPS3WXYuJip-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G1TAlQLfBnPS3WXYuJip-5" target="G1TAlQLfBnPS3WXYuJip-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TAlQLfBnPS3WXYuJip-5" value="Scan hours" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TAlQLfBnPS3WXYuJip-9" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="180" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TAlQLfBnPS3WXYuJip-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G1TAlQLfBnPS3WXYuJip-11" target="G1TAlQLfBnPS3WXYuJip-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TAlQLfBnPS3WXYuJip-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G1TAlQLfBnPS3WXYuJip-11" target="G1TAlQLfBnPS3WXYuJip-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TAlQLfBnPS3WXYuJip-11" value="hour&amp;gt;40" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="320" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TAlQLfBnPS3WXYuJip-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G1TAlQLfBnPS3WXYuJip-12" target="G1TAlQLfBnPS3WXYuJip-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TAlQLfBnPS3WXYuJip-12" value="hour&amp;lt;=40" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="320" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TAlQLfBnPS3WXYuJip-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G1TAlQLfBnPS3WXYuJip-13" target="G1TAlQLfBnPS3WXYuJip-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TAlQLfBnPS3WXYuJip-13" value="print &quot;You wont get any pay&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="420" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TAlQLfBnPS3WXYuJip-17" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="330" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TAlQLfBnPS3WXYuJip-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G1TAlQLfBnPS3WXYuJip-18" target="G1TAlQLfBnPS3WXYuJip-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TAlQLfBnPS3WXYuJip-18" value="calculate Overtime and overtime_pay" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="400" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TAlQLfBnPS3WXYuJip-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G1TAlQLfBnPS3WXYuJip-19" target="G1TAlQLfBnPS3WXYuJip-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TAlQLfBnPS3WXYuJip-19" value="print overtime_pay" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="460" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TAlQLfBnPS3WXYuJip-23" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="380" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TAlQLfBnPS3WXYuJip-26" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="380" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TAlQLfBnPS3WXYuJip-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.086;entryY=0.552;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="G1TAlQLfBnPS3WXYuJip-28" target="G1TAlQLfBnPS3WXYuJip-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="550" />
+              <mxPoint x="240" y="153" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1TAlQLfBnPS3WXYuJip-28" value="Employee++" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="530" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TAlQLfBnPS3WXYuJip-33" value="getch() and EXIT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="210" width="60" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
